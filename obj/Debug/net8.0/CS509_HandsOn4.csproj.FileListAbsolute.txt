@@ -1,0 +1,14 @@
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\bin\Debug\net8.0\CS509_HandsOn4.exe
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\bin\Debug\net8.0\CS509_HandsOn4.deps.json
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\bin\Debug\net8.0\CS509_HandsOn4.runtimeconfig.json
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\bin\Debug\net8.0\CS509_HandsOn4.dll
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\bin\Debug\net8.0\CS509_HandsOn4.pdb
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\obj\Debug\net8.0\CS509_HandsOn4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\obj\Debug\net8.0\CS509_HandsOn4.AssemblyInfoInputs.cache
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\obj\Debug\net8.0\CS509_HandsOn4.AssemblyInfo.cs
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\obj\Debug\net8.0\CS509_HandsOn4.csproj.CoreCompileInputs.cache
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\obj\Debug\net8.0\CS509_HandsOn4.dll
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\obj\Debug\net8.0\refint\CS509_HandsOn4.dll
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\obj\Debug\net8.0\CS509_HandsOn4.pdb
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\obj\Debug\net8.0\CS509_HandsOn4.genruntimeconfig.cache
+C:\Users\valer\ClassStuff\CS509_SystemDesign\CS509_HandsOn4\obj\Debug\net8.0\ref\CS509_HandsOn4.dll
